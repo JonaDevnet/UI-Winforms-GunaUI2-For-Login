@@ -1,0 +1,14 @@
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\bin\Debug\PresentacionUI.exe.config
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\bin\Debug\PresentacionUI.exe
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\bin\Debug\PresentacionUI.pdb
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\bin\Debug\Guna.UI2.dll
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.csproj.AssemblyReference.cache
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.LogIn.resources
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.Properties.Resources.resources
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.csproj.GenerateResource.cache
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.csproj.CoreCompileInputs.cache
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\Presenta.F83ADFFB.Up2Date
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.exe
+C:\Users\Joni\source\repos\FrontLoginNcapas\PresentacionUI\obj\Debug\PresentacionUI.pdb
